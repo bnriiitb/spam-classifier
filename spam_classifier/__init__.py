@@ -1,0 +1,1 @@
+from .models.predict_model import SpamClassifier
